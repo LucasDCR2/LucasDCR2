@@ -1,12 +1,9 @@
 ## Olá! Seja bem-vindo ao meu GitHub 👋
 
 <div>
-  <div>
-    <img height="177em" src="https://github-readme-stats.vercel.app/api?username=LucasDCR2&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  </div>
-  <div>
-    <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDCR2&layout=compact&langs_count=16&theme=great-gatsby"/>
-  </div>
+  <a href "https://github.com/LucasDCR2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDCR2&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDCR2&layout=compact&langs_count=16&theme=neon"/>
 </div>
 
 <br>
