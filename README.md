@@ -1,4 +1,4 @@
-## Olá! Seja bem-vindo ao meu GitHub 👋
+<h1 align="center"> Olá! Seja bem-vindo ao meu GitHub 👋 </h1>
 
 <div>
   <a href "https://github.com/LucasDCR2">
