@@ -11,7 +11,7 @@
 <h1>Melhores Tecnologias :) 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp; Redes Sociais </h1>
+  &nbsp;&nbsp; -> Redes Sociais <- </h1>
 
 <div align="center">
   <img height="30" width="40" alt="php-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
