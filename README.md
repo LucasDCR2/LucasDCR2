@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDCR2&show_icons=true&theme=neon&count_private=true"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDCR2&layout=compact&langs_count=16&theme=neon"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDCR2&layout=compact&langs_count=16&theme=neon"/>
 </div>
 
 <h1>Melhores Tecnologias :) 
